@@ -1,0 +1,9 @@
+groq
+langgraph
+pydantic
+streamlit
+langchain-community
+langchain_openai
+toml
+toolhouse
+google-generativeai
